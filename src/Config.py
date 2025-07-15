@@ -6,7 +6,7 @@ Config = {
         "fps": 20,
         "bumper_size": 20,
         "font": "../assets/VT323-Regular.ttf",
-        "title-font": "../assets/PressStart2P-Regular.ttf",
+        "title-font": "./assets/PressStart2P-Regular.ttf",
     },
     "snake": {"height": 10, "width": 10, "speed": 10},
     "apple": {"width": 10, "height": 10},
