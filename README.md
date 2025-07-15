@@ -7,7 +7,8 @@ Classic Snake re-created in Python using Pygame
 
 # How to run
 ## Terminal:
-1) Run command:     `python3 src/main.py`
+1) Run command:<br/>
+        python3 src/main.py
 
 ## IDLE:
 1) Open file: main.py
