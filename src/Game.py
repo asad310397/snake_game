@@ -112,7 +112,6 @@ class Game:
                     self.loop()
 
             # create font for the game screen
-            print("=" * 100, "Here", Config["game"]["font"])
             font = pygame.font.Font(Config["game"]["font"], 28)
 
             # create score text get the rectangle and add it to the screen
